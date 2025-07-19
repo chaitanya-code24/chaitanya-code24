@@ -32,8 +32,8 @@
 
 ### 📫 Let's Connect
 
-- Twitter/X: [@yourhandle](https://x.com/IndieChaitanya)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/chaitanya-lokhande-911343221/)
+- Twitter/X: [@IndieChaitanya](https://x.com/IndieChaitanya)
+- LinkedIn: [Chaitanya Lokhande](https://www.linkedin.com/in/chaitanya-lokhande-911343221/)
 
 ---
 
