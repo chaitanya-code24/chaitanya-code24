@@ -24,8 +24,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 💸 [AI Expense Tracker](https://ai-expense-tracker-l8reqtq8g-chaitanya-lokhandes-projects.vercel.app//) | Chat-based expense tracking with LLM + photo upload + auto categorization | Next.js, FastAPI, MongoDB, ChromaDB |
-| 🤖 [ChatDock](https://github.com/chaitanya-code24/ChatDock) | Drag & drop chatbot builder for businesses | Python, LLaMA, Streamlit |
+| 💸 [AI Expense Tracker](https://ai-expense-tracker-l8reqtq8g-chaitanya-lokhandes-projects.vercel.app//) | Chat-based expense tracking with LLM + photo upload + auto categorization | Next.js, FastAPI, MongoDB, PineconeDB(Cloud VectorDB) |
 | 🧓 [ElderEase](https://github.com/chaitanya-code24/ND-Backend) | AI diet suggestion system for elder people | Backend Only, Javascript, Express.js, OCR, LLM, RAG |
 
 ---
