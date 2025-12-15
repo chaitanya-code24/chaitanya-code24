@@ -2,7 +2,7 @@
 
 🚀 I’m a self-taught developer, currently focused on building production-ready AI-powered tools and LLM-based systems.
 
-- 🔭 Currently working on: [AI Expense Tracker](https://ai-expense-tracker-l8reqtq8g-chaitanya-lokhandes-projects.vercel.app//)
+- 🔭 Currently working on: [WhareIQ](https://github.com/chaitanya-code24/whareiq)
 - 🧠 Learning: Advanced AI Agents, Vector DBs and System Design
 - 💼 Open to collaboration on cutting-edge AI startups or products
 
