@@ -1,10 +1,10 @@
 <div align="center">
 
-# ⚡ Chaitanya Lokhande
+# ⚡ Chaitanya Lokhande  
 ### Python | Backend | AI (LLM & RAG) Engineer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+LLM-Powered+Applications;Designing+Scalable+Backend+APIs;Exploring+RAG+and+Vector+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+LLM-Powered+Applications;Designing+Scalable+Backend+APIs;Building+Safe+AI+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,12 +25,12 @@
 ## 👨‍💻 About Me
 
 I’m a **2025 Computer Science graduate** with hands-on experience in **Python backend development** and **LLM-powered applications**.  
-I enjoy building **production-style APIs**, experimenting with **RAG pipelines**, and turning raw data into **useful AI-driven insights**.
+I enjoy building **production-grade APIs**, designing **safe AI systems**, and turning **raw data into trusted insights**.
 
 - 🔧 **Core Stack:** Python, FastAPI, Node.js, MongoDB, PostgreSQL  
-- 🤖 **AI Focus:** LLMs, RAG, embeddings, vector databases (Pinecone, ChromaDB)  
+- 🤖 **AI Focus:** LLMs, RAG, embeddings, semantic systems  
 - ☁️ **Deployment:** Vercel, Render, AWS (EC2, S3)  
-- 🎯 **Looking for:** Internship / Entry-level roles in Backend, Python, or AI Engineering
+- 🎯 **Looking for:** Internship / Entry-level roles in Backend, Python, or AI Engineering  
 
 ---
 
@@ -40,12 +40,29 @@ I enjoy building **production-style APIs**, experimenting with **RAG pipelines**
   <img src="https://skillicons.dev/icons?i=py,js,react,nextjs,fastapi,nodejs,mongodb,postgres,git,docker" />
 </div>
 
-**AI & ML:** LLMs, RAG, Embeddings, Prompt Engineering, NLP, CNN, Computer Vision  
+**Backend & Databases:** FastAPI, Node.js, PostgreSQL, MongoDB  
+**AI & ML:** LLMs, RAG, Prompt Engineering, Embeddings, NLP, CNN  
 **Cloud & Tools:** GitHub, Firebase Auth, Vercel, Render, AWS (EC2, S3), Docker (basic)
 
 ---
 
 ## 🚀 Projects
+
+### 🔹 **WhareIQ – Semantic SQL & Data Warehouse Intelligence Engine**
+- Built a **production-ready semantic query engine** that enables users to query **PostgreSQL using natural language**
+- Designed a **deterministic Semantic → SQL compiler** (no LLM-generated SQL execution)
+- Implemented **schema introspection**, semantic mappings, and FK-based join resolution
+- Added **enterprise-grade safety layers**:
+  - Read-only SQL validation  
+  - Table & column allowlisting  
+  - Hard row limits  
+  - Database-level query timeouts  
+- Generated **grounded, human-readable summaries** strictly based on query results
+- Architected the system to be **safe, explainable, and deployable for real startups**
+
+🔗 GitHub: https://github.com/chaitanya-code24/whareiq  
+
+---
 
 ### 🔹 BlinqTrack – AI Expense Tracker (RAG-Based)
 - Built a **full-stack AI application** using **FastAPI, MongoDB, and React**
