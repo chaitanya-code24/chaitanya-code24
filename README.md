@@ -1,20 +1,20 @@
 <div align="center">
 
 # ⚡ Chaitanya Lokhande
-### Building the Brains of Tomorrow's Software
+### Python | Backend | AI (LLM & RAG) Engineer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Production-Ready+AI+Systems;Exploring+Vector+Databases;Architecting+Scalable+LLM+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+LLM-Powered+Applications;Designing+Scalable+Backend+APIs;Exploring+RAG+and+Vector+Databases" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
-  <a href="https://x.com/IndieChaitanya" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
   <a href="https://www.linkedin.com/in/chaitanya-lokhande-911343221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/chaitanya-code24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -22,47 +22,64 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **self-taught developer** obsessed with the intersection of **System Design** and **Generative AI**. I don't just call APIs; I build robust systems that turn raw data into intelligent action.
+I’m a **2025 Computer Science graduate** with hands-on experience in **Python backend development** and **LLM-powered applications**.  
+I enjoy building **production-style APIs**, experimenting with **RAG pipelines**, and turning raw data into **useful AI-driven insights**.
 
-- 🔭 **Focus:** Building [WhareIQ](https://github.com/chaitanya-code24/whareiq)
-- 🧠 **Deep Diving:** Advanced AI Agents, RAG Pipelines, and Vector Optimization.
-- 🤝 **Goal:** Collaborating on high-impact AI startups.
+- 🔧 **Core Stack:** Python, FastAPI, Node.js, MongoDB, PostgreSQL  
+- 🤖 **AI Focus:** LLMs, RAG, embeddings, vector databases (Pinecone, ChromaDB)  
+- ☁️ **Deployment:** Vercel, Render, AWS (EC2, S3)  
+- 🎯 **Looking for:** Internship / Entry-level roles in Backend, Python, or AI Engineering
 
 ---
 
-### 🛠️ The Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,fastapi,react,tailwind,firebase,mongodb,git,docker" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama_Index-040816?style=flat&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF5C00?style=flat&logo=chromadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-00C9A7?style=flat&logo=groq&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,nextjs,fastapi,nodejs,mongodb,postgres,git,docker" />
 </div>
 
----
-
-### 🚀 Shipping Code
-
-| 🏗️ Project | 💡 The Spark | 🔧 Under the Hood |
-|:---|:---|:---|
-| **[WhareIQ](https://github.com/chaitanya-code24/whareiq)** | *Current Focus* | `Wait & See` |
-| **[AI Expense Tracker](https://ai-expense-tracker-l8reqtq8g-chaitanya-lokhandes-projects.vercel.app//)** | Chat with your finances. Intelligent categorization via LLMs. | `Next.js` `FastAPI` `Pinecone` `LLMs` |
-| **[ElderEase](https://github.com/chaitanya-code24/ND-Backend)** | RAG-based diet assistant specifically tuned for elderly care. | `Express.js` `OCR` `RAG` `GenAI` |
+**AI & ML:** LLMs, RAG, Embeddings, Prompt Engineering, NLP, CNN, Computer Vision  
+**Cloud & Tools:** GitHub, Firebase Auth, Vercel, Render, AWS (EC2, S3), Docker (basic)
 
 ---
+
+## 🚀 Projects
+
+### 🔹 BlinqTrack – AI Expense Tracker (RAG-Based)
+- Built a **full-stack AI application** using **FastAPI, MongoDB, and React**
+- Implemented a **RAG pipeline with embeddings and Pinecone** for intelligent expense insights
+- Integrated **Firebase Authentication**
+- Deployed frontend on **Vercel** and backend on **Render**
+
+🔗 GitHub: https://github.com/chaitanya-code24  
+🔗 Live: https://ai-expense-tracker-l8reqtq8g-chaitanya-lokhandes-projects.vercel.app/
+
+---
+
+### 🔹 ElderEase – AI Nutrition Assistant (Backend + AI)
+- Built **Node.js + Express backend APIs**
+- Implemented **prompt-based LLM integration (Groq LLaMA-70B)**
+- Designed APIs for handling dietary preferences and health constraints
+- Enabled **async request handling** for real-time responses
+
+🔗 GitHub: https://github.com/chaitanya-code24/ND-Backend
+
+---
+
+### 🔹 Pneumonia Detection Using CNN
+- Built a **CNN-based medical image classification model**
+- Performed **image preprocessing, augmentation, training, and evaluation**
+- Validated the model using standard classification metrics
+
+🔗 GitHub: https://github.com/chaitanya-code24
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-
-> *"Every project I build is a stepping stone toward creating something legendary."*
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanya-code24&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-code24&theme=tokyonight" height="150" alt="streak graph"  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-code24&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-code24&theme=tokyonight" height="150" />
 </div>
