@@ -19,7 +19,7 @@
 
 ## <img src="https://img.shields.io/badge/-%E2%80%8B-22d3ee?style=flat-square" height="22" /> About me
 
-<img align="right" width="400" src="./assets/agent.svg" alt="Animated AI agent pipeline" />
+<img align="right" width="42%" src="./assets/agent.svg" alt="Animated AI agent pipeline" />
 
 I'm an **AI Engineer** from Pune, India. I build the layer where models meet real products.
 
