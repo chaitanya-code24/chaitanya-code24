@@ -141,8 +141,12 @@ class Chaitanya:
 ## <img src="https://img.shields.io/badge/-%E2%80%8B-f472b6?style=flat-square" height="22" /> GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chaitanya-code24&show_icons=true&hide_rank=true&hide_border=true&bg_color=0b1024&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&ring_color=22d3ee" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-code24&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=0b1024&title_color=22d3ee&text_color=c9d1d9" alt="Top languages" />
+  <img width="100%" src="./profile/trophy.svg" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
